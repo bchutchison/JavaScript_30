@@ -24,7 +24,7 @@ body,html {
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
-  transition: all .07s ease;
+  transition: all .2s ease;
   width: 10rem;
   text-align: center;
   color: white;
@@ -40,11 +40,11 @@ body,html {
 
 kbd {
   display: block;
-  font-size: 4rem;
+  font-size: 8rem;
 }
 
 .sound {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
